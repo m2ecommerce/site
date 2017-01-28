@@ -1,7 +1,7 @@
-title: Hexo
-subtitle: "A fast, simple & powerful blog framework powered by Node.js."
+title: Hello world
+subtitle: "Hello world."
 description: "Hexo is a fast, simple & powerful blog framework powered by Node.js."
-author: Tommy Chen
+author: Test
 language: en
 timezone: UTC
 url: https://hexo.io
