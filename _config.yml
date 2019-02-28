@@ -1,10 +1,10 @@
-title: Hello world
-subtitle: "Hello world."
-description: "Hexo is a fast, simple & powerful blog framework powered by Node.js."
-author: Test
+title: m2eCommerce Results-Driven Prformance Marketing Services 
+subtitle: "m2 eCommerce creates and optimizes content that delights both humans and search engine spiders. This content not only performs better in organic search, but also produces more revenue."
+description: "Search Engine Optimization, Content Marketing, Video Marketing and Press Release Distribution"
+author: m2eCommerce
 language: en
 timezone: UTC
-url: https://hexo.io
+url: https://www.m2ecommerce.net
 root: /
 permalink: news/:year/:month/:day/:title/
 archive_dir: news
@@ -34,5 +34,5 @@ algolia:
   zh-cn:
     api_key: cdea7d4e47d84f6145b77e7f68689f35
     index_name: hexo_zh-cn
-twitter: hexojs
-github: hexojs/hexo
+twitter: m2ecommerce
+github: m2ecommerce/site
