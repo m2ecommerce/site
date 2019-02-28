@@ -5,7 +5,7 @@
     </h1>
     <nav id="main-nav">
       {{ header_menu('main-nav') }}
-      <a href="https://github.com/{{ config.github }}" class="main-nav-link"><i class="fa fa-envelope"></i></a>
+      <a href="http://www.m2ecommerce.com/contact/" class="main-nav-link"><i class="fa fa-envelope"></i></a>
     </nav>
     <div id="lang-select-wrap">
       <label id="lang-select-label"><i class="fa fa-globe"></i><span>{{ lang_name(page.lang) }}</span></label>
